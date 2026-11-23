@@ -15,3 +15,8 @@ Bu proje, **PX4 SITL** ve **Gazebo** ortamında simüle edilen sabit kanatlı (`
 2. Simülasyonu başlatın: `cd ~/PX4-Autopilot && make px4_sitl gz_rc_cessna` (PX4 konsolunda `param set FW_LND_USETER 0` ayarlayın).
 3. QGroundControl **Plan** sekmesinden Takeoff, Waypoint ve Landing rotasını çizip **Upload** edin.
 4. Kodu çalıştırın: `cd ~/fixed_wing_mission && python3 mission.py`
+
+## Simülasyon Uçuş Videosu
+https://github.com/user-attachments/assets/59d3690c-1ca4-4737-8774-d81f2a908de7
+
+
