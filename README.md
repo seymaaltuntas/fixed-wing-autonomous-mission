@@ -7,7 +7,6 @@ Bu proje, **PX4 SITL** ve **Gazebo** ortamında simüle edilen sabit kanatlı (`
 * `README.md`: Kurulum ve kullanım dokümantasyonu.
 * `TEKNIK_RAPOR.md`: Proje mimarisi ve uygulama raporu.
 * `TEKNIK_DOKUMANTASYON.md`: PX4, SITL, Gazebo, QGC, MAVLink, MAVSDK ve ROS 2 kavramsal dokümantasyonu.
-* `flight_video.webm`: Simülasyon uçuş kaydı.
 * `video_notlari.md`: Eğitim süreci çalışma notları.
 
 ## Kurulum ve Çalıştırma
